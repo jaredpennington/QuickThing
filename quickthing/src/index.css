@@ -1,0 +1,19 @@
+*:root {
+  background-color: #000000;
+}
+
+.image {
+  padding: 4px;
+  display: flex;
+  justify-content: center;
+  margin: auto;
+  width: 100%;
+  position: relative;
+  flex-direction: column;
+  align-items: center;
+
+}
+
+.text {
+  color: aliceblue;
+}
